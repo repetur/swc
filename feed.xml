@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+ <id>urn:iweb:04E7EDA2-3E1D-43D4-B8B5-62C8ACA4FC0B</id>
+ <title>Page list Atom feed</title>
+ <updated>2023-05-11T16:54:58+04:00</updated>
+ <link rel="self" href="feed.xml"/>
+ <generator>iWeb</generator>
+ <author>
+  <name>iWeb</name>
+ </author>
+ <entry>
+  <id>urn:iweb:1A0B4D73-4A08-4219-8665-D727B2B58DE6</id>
+  <title>index</title>
+  <title xmlns="urn:iweb:">index</title>
+  <in-navbar xmlns="urn:iweb:">1A0B4D73-4A08-4219-8665-D727B2B58DE6</in-navbar>
+  <link rel="alternate" href="index.html"/>
+  <updated>2023-05-11T16:54:58.001+04:00</updated>
+  <content>index</content>
+ </entry>
+ <entry>
+  <id>urn:iweb:B5EE084A-D6CB-4314-AAA5-C41D0B15E025</id>
+  <title>op</title>
+  <title xmlns="urn:iweb:">op</title>
+  <in-navbar xmlns="urn:iweb:">B5EE084A-D6CB-4314-AAA5-C41D0B15E025</in-navbar>
+  <link rel="alternate" href="op.html"/>
+  <updated>2023-05-11T16:54:58.002+04:00</updated>
+  <content>op</content>
+ </entry>
+ <entry>
+  <id>urn:iweb:EC002B26-8788-40D9-B295-665303BE63A2</id>
+  <title>pk</title>
+  <title xmlns="urn:iweb:">pk</title>
+  <in-navbar xmlns="urn:iweb:">EC002B26-8788-40D9-B295-665303BE63A2</in-navbar>
+  <link rel="alternate" href="pk.html"/>
+  <updated>2023-05-11T16:54:58.003+04:00</updated>
+  <content>pk</content>
+ </entry>
+ <entry>
+  <id>urn:iweb:19BD9A68-69AD-4C99-8FFC-C0BFFB9A21F6</id>
+  <title>do</title>
+  <title xmlns="urn:iweb:">do</title>
+  <in-navbar xmlns="urn:iweb:">19BD9A68-69AD-4C99-8FFC-C0BFFB9A21F6</in-navbar>
+  <link rel="alternate" href="do.html"/>
+  <updated>2023-05-11T16:54:58.004+04:00</updated>
+  <content>do</content>
+ </entry>
+</feed>

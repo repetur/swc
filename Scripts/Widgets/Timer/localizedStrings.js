@@ -1,0 +1,2 @@
+
+(function(){var strings={};strings['Years']='г. (лет)';strings['Days']='дн.';strings['Hours']='ч.';strings['Mins']='мин.';strings['Secs']='сек.';RegisterWidgetStrings("com-apple-iweb-widget-timer",strings);})();
